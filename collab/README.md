@@ -48,6 +48,7 @@ The script provided in this repository installs the following commonly used Stat
 - wooldid
 - wyoung
 - numdate
+- gologit2
 
 ## Usage
 
