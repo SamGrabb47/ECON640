@@ -41,7 +41,8 @@ foreach package in
 "vcemway" 
 "winsor2" 
 "wooldid" 
-"wyoung" { ;
+"wyoung" 
+"gologit2" { ;
     ssc install `package', replace;
     display "Installed package: `package'";
 };
